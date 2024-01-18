@@ -1,1 +1,1 @@
-# Core-JavaScript-01-Assignment
+# Core-JavaScript-Assignment
